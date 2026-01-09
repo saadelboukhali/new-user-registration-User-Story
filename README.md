@@ -1,6 +1,3 @@
-# new-user-registration-User-Story
-This repository documents the user story, wireframe/UI requirements, and workflow for the ‘New User Registration’ feature, enabling users to self-register and create login credentials online.
-
 # New User Registration – Project Documentation
 
 ## 📌 Project Overview
